@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@auth0/auth0-spa-js": "2.0.4",
-    "@aws-amplify/auth": "^6.5.2",
+    "@aws-amplify/auth": "^6.6.0",
     "@emotion/cache": "11.11.0",
     "@emotion/react": "11.11.0",
     "@emotion/server": "11.11.0",
